@@ -1,1 +1,2 @@
-this is second file of the day
+change happened due to cat command
+so it overwrittend
